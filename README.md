@@ -1,4 +1,4 @@
-# K-means_Algorithm
+# K-Means_Algorithm
 Custom implementation of the K-Means Clustering Algorithm
 
 This project implements the K-means Clustering Algorithm. The user selects which data to use, and this is loaded from a csv file. The user then chooses how many clusters to use and the number of iterations. The initial centroids are randomly selected, but the subsequent ones are calculated using the mean of the x and y values of data points belonging to the relevant cluster.
